@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  margin: auto;
+  padding-top: 10px;
+  background-color: black;
+  background: url(https://wallpaperaccess.com/full/1765659.jpg);
+}
